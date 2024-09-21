@@ -1,2 +1,3 @@
 # LernGit
-this is for learning only
+
+this is for learning only thats it
